@@ -1,1 +1,9 @@
 In this Archive precompiled binaries of PI2 and PI3 Emulationstation are stored
+
+
+    1. If there is no @ in the name then it's a main branch release within RetroPie
+    2- authors of the branch are names by adding @name to the file
+    3. main features are named within file name
+
+for ex. `emulationstation2.1.5RP` means main realase of ES from RetroPie in ES version 2.1.5
+for ex. `emulationstation2.2.4RP PS @hex PowerSavings`means ES branch from @hex with PowerSaving feature with ES version 2.2.4
