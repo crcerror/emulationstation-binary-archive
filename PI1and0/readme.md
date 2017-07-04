@@ -14,6 +14,6 @@ for ex. `emulationstation2.2.4RP PS @hex PowerSavings`means ES branch from @hex 
 3. Copy repro file to /opt/retropie/supplementary/emulationstation/
 4. User rights 755 root:root
     
--
+--
     
 cyperghost
